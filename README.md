@@ -10,5 +10,4 @@ Should implement
 - mouse click to forward scenes instead 
 - make decisions more clear
 
-
-
+![LFTZGIF](https://github.com/jenjenayjen/LeftForTheZombies/blob/main/Photos%20and%20Demo/LFTZ.gif)
